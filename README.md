@@ -1,7 +1,6 @@
-📝 **##Todos Application**
-
 ![Todos Appliction Screenshot](images/Op1.png)
-![Todos Appliction Screenshot](images/Op2.png)
+![Todos Appliction Screenshot](images/op2.png)
+📝 **##Todos Application**
 A simple and interactive Todos Application built using HTML, CSS, and JavaScript.
 This app helps users manage daily tasks efficiently by allowing them to add, mark, delete, and save tasks using browser local storage.
 
