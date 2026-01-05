@@ -1,4 +1,4 @@
-![Todos Appliction Screenshot](images/Op1.png)
+![Todos Appliction Screenshot](images/Op1.jpeg)
 ![Todos Appliction Screenshot](images/op2.png)
 📝 **##Todos Application**
 A simple and interactive Todos Application built using HTML, CSS, and JavaScript.
